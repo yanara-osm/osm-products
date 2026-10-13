@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yanara-osm.github.io/osm-products/sitemap.xml
